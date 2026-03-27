@@ -78,7 +78,7 @@ class KerollosTharwat {
 * Contact info UI with icons
 * Clean and readable design
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kerollos993/business_card_app/main/images/your-image.png" width="250"/>
+  <img src="https://github.com/kerollos993/business_card_app/blob/main/business.png" width="250"/>
 </p>
 ---
 
