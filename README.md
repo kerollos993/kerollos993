@@ -77,7 +77,9 @@ class KerollosTharwat {
 * Real-world idea
 * Contact info UI with icons
 * Clean and readable design
-
+<p align="center">
+  <img src="business.png" width="250"/>
+</p>
 ---
 
 ## 🧰 Tech Stack
