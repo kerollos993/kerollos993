@@ -1,141 +1,119 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kerollos Tharwat</h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="70%"/>
+<h3 align="center">
+🚀 Flutter Developer | 💼 Business Background | 📱 Building Real Apps
+</h3>
 
-# 👋 Hello, I'm Kerollos Tharwat
+<p align="center">
+  <a href="mailto:KerollosTharwat99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kerollos-tharwat-aa53a7327">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Kerollos993">
+    <img src="https://img.shields.io/badge/GitHub-My%20Projects-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-💻 Flutter Developer (Beginner)
-📍 Cairo, Egypt 🇪🇬
-🚀 Passionate about Mobile App Development
+---
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=22&center=true&vCenter=true&width=500&lines=Flutter+Developer;Learning+Everyday;Building+Real+Apps;Tech+%2B+Business+Mindset" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-✨ I’m a motivated developer transitioning into tech
-📱 Building mobile apps using **Flutter & Dart**
-🔄 Currently learning **Firebase & APIs Integration**
-🤝 Strong background in **Sales & Customer Experience**
-🎯 Interested in combining **Tech + Business**
+```dart
+class KerollosTharwat {
+  String role = "Flutter Developer";
+  String level = "Beginner → Growing Fast 🚀";
+
+  List<String> focus = [
+    "Mobile App Development",
+    "Clean UI Design",
+    "Real-world Applications"
+  ];
+
+  List<String> currentlyLearning = [
+    "Firebase",
+    "REST APIs",
+    "App Architecture"
+  ];
+
+  List<String> strengths = [
+    "Communication",
+    "Sales Mindset",
+    "Problem Solving",
+    "User Understanding"
+  ];
+}
+```
 
 ---
 
-## 💼 Experience
+## 🔥 What Makes Me Different
 
-### 💰 Sales Acquisition Specialist – Paymob
-
-* Generated new business opportunities through field sales
-* Onboarded merchants to digital payment solutions
-* Built long-term client relationships
-* Achieved and exceeded sales targets
-* Strong negotiation & closing skills
+* 💡 I understand **users & business needs** (not just code)
+* 🤝 Real experience dealing with clients
+* 📈 Fast learner & consistent builder
+* 🎯 Focused on building **useful apps**, not just tutorials
 
 ---
 
-### 🤝 DRM Specialist – Al Nas Hospital
-
-* Handled donor inquiries through online chat
-* Used CRM systems to manage interactions
-* Provided accurate donation information
-* Built positive relationships with donors
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%20Design-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-
-</p>
-
----
-
-## 🔄 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/APIs-00599C?style=for-the-badge&logo=api&logoColor=white"/>
-
-</p>
-
----
-
-## 🧠 Business Skills
-
-* 💬 Communication Skills
-* 🤝 Relationship Management
-* 💼 Sales & Negotiation
-* 🧩 Problem Solving
-* 🎯 Customer Experience
-
----
-
-## 📱 Projects
+## 📱 Featured Projects
 
 ### 🎂 Birthday Card App
 
-📱 Flutter UI App
-🎨 Clean and simple birthday greeting design
+<p align="center">
+  <img src="PUT_IMAGE_1" width="250"/>
+</p>
 
-🔗 Add your repo link here
+* Simple & clean UI
+* Focus on layout & styling
 
 ---
 
 ### 💼 Business Card App
 
-📱 Flutter UI App
-📇 Displays personal/business info in a modern style
+<p align="center">
+  <img src="PUT_IMAGE_2" width="250"/>
+</p>
 
-🔗 Add your repo link here
+* Real-world idea
+* Contact info UI with icons
+* Clean and readable design
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kerollos993&show_icons=true&theme=tokyonight" width="45%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kerollos993&theme=tokyonight" width="45%"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
 <p align="center">
-
-<a href="https://github.com/Kerollos993">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kerollos-tharwat-aa53a7327">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Kerollos993&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kerollos993&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🎯 Career Goal
 
-🚀 I aim to grow as a **Flutter Developer**
-💡 While leveraging my **Business & Customer Experience** background
-📱 To build real-world impactful mobile applications
+📱 Become a professional Flutter Developer
+🚀 Build scalable & real-world apps
+💼 Combine Tech + Business to create impact
 
 ---
 
-<div align="center">
+## ⚡️ Final Note
 
-🔥 Always Learning | Always Building 🔥
-
-</div>
+> I’m not just learning Flutter…
+> I’m building my future with it 🚀
