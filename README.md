@@ -67,20 +67,12 @@ class KerollosTharwat {
 
 ### 🎂 Birthday Card App
 
-<p align="center">
-  <img src="Android Emulator - Small_Phone" width="250"/>
-</p>
-
 * Simple & clean UI
 * Focus on layout & styling
 
 ---
 
 ### 💼 Business Card App
-
-<p align="center">
-  <img src="PUT_IMAGE_2" width="250"/>
-</p>
 
 * Real-world idea
 * Contact info UI with icons
@@ -100,7 +92,7 @@ class KerollosTharwat {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kerollos993&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kerollos993&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
