@@ -69,7 +69,9 @@ class KerollosTharwat {
 
 * Simple & clean UI
 * Focus on layout & styling
-<img src="https://github.com/kerollos993/Birthday-Card/blob/main/birthday%20card%20project.png" width="250"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kerollos993/Birthday-Card/main/birthday%20card%20project.png" width="250"/>
+</p>
 ---
 
 ### 💼 Business Card App
