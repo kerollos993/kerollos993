@@ -68,7 +68,7 @@ class KerollosTharwat {
 ### 🎂 Birthday Card App
 
 <p align="center">
-  <img src="PUT_IMAGE_1" width="250"/>
+  <img src="Android Emulator - Small_Phone" width="250"/>
 </p>
 
 * Simple & clean UI
